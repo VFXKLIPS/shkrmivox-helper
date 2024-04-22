@@ -1,12 +1,11 @@
 {
   "manifest_version": 2,
   "version": "2.4.1",
-  "name": "Skiovox Helper",
+  "name": "Skiovox Helper 2",
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
     "128": "icon.png"
   },
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjQkFI6kg2UXbI7lyQDFc5GJ+MB0FPWAfdbWL3QVcNtufnzGrlies3us9Xxzx16W+dAg9V2J1o3f6YDHLIslNBv3TQ2KJsxGvAKrYgSBCbtsmCUvNlRJGTr01rMSJ1hgmgVWRrSxgfp7sgMo9JOptk8Fx1eUWcBKsIZwz1dlekiC6jSmiiGFSi1RMMwxXCaWSt/vp/MjZDLDyX7b88t/osXJ6Bzb/CSAjAZ3md8DyWpLvQDahLH2TaN7tnVNk6Tb+6jrn0a6y6+crMPR2Mp8RxHi6N2zxMynqMjJ0QGefwqPzbb4VKoqRfQQh3CUyqqsEwB1gH6zSjJx5JZa89oNvuwIDAQAB",
   "commands": {
     "ACCESS_HISTORY": {
       "description": "Ctrl+H"
